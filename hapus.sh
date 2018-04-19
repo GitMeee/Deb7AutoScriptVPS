@@ -10,7 +10,7 @@ echo -e "\e[94m   +#+    +:+ +#++:++#   +#++:++#+        +#+     "
 echo -e "\e[94m   +#+    +#+ +#+        +#+    +#+      +#+      "
 echo -e "\e[94m   #+#    #+# #+#        #+#    #+#     #+#       "
 echo -e "\e[94m   #########  ########## #########      ###       "
-echo -e "\e[94m         Deb7AutoScriptVPS by _Dreyannz_          "
+echo -e "\e[94m         Deb7AutoScriptVPS by **PHCarl**          "
 echo -e "\e[0m                                                   "
 echo -e ""
 read -p "        Username to be removed : " Pengguna
