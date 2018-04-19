@@ -13,7 +13,7 @@ echo -e "\e[94m   +#+    +:+ +#++:++#   +#++:++#+        +#+     "
 echo -e "\e[94m   +#+    +#+ +#+        +#+    +#+      +#+      "
 echo -e "\e[94m   #+#    #+# #+#        #+#    #+#     #+#       "
 echo -e "\e[94m   #########  ########## #########      ###       "
-echo -e "\e[94m         Deb7AutoScriptVPS by _Dreyannz_          "
+echo -e "\e[94m         AutoScriptVPS by **PHCarl**          "
 echo -e "\e[0m                                                   "
 
 IP=`dig +short myip.opendns.com @resolver1.opendns.com`
